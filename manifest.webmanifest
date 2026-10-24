@@ -1,0 +1,86 @@
+{
+  "id": "./",
+  "name": "Laternenland",
+  "short_name": "Laternenland",
+  "description": "Monster zähmen, füttern und züchten, Dungeons erkunden und die Laternen der Insel wieder entzünden – ein Pixel-Abenteuer.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": [
+    "fullscreen",
+    "standalone"
+  ],
+  "orientation": "any",
+  "background_color": "#0b0c20",
+  "theme_color": "#0b0c20",
+  "lang": "de",
+  "dir": "ltr",
+  "categories": [
+    "games",
+    "entertainment"
+  ],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screens/narrow-1.jpg",
+      "sizes": "720x1280",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "Das Dorf Funkenau"
+    },
+    {
+      "src": "screens/narrow-2.jpg",
+      "sizes": "720x1280",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "Kampf gegen wilde Monster"
+    },
+    {
+      "src": "screens/narrow-3.jpg",
+      "sizes": "720x1280",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "Die Landkarte"
+    },
+    {
+      "src": "screens/wide-1.jpg",
+      "sizes": "1688x780",
+      "type": "image/jpeg",
+      "form_factor": "wide",
+      "label": "Funkenau im Querformat"
+    },
+    {
+      "src": "screens/wide-2.jpg",
+      "sizes": "1688x780",
+      "type": "image/jpeg",
+      "form_factor": "wide",
+      "label": "Kampf im Querformat"
+    }
+  ]
+}
